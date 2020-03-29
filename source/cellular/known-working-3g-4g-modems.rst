@@ -31,6 +31,11 @@ pfSense® software.
 -  Huawei E220
 -  Huawei E226
 -  Huawei E272
+-  Huwaei E303C
+
+   -  Link interface: ``/dev/cuaU0.0``
+   -  Init string: ``&F``
+
 -  Huawei E352
 -  Huawei E353U-2
 -  Huawei E367
